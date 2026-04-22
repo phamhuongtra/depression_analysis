@@ -4,4 +4,7 @@ matplotlib
 seaborn
 scipy
 scikit-learn
+catboost
+lightgbm
 jupyter
+ipykernel
